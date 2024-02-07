@@ -1,0 +1,1 @@
+Converting color images to gray (black and white) images using averaging of three color channels red, green and blue.
